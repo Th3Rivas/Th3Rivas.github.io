@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+  color:#2b80f0;
+  Background-color:#75141a;
+  Max-width: 700px;
+  Margin: auto;
+  font-family: "Bitter", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+
+}
+
+th, td {
+   padding: 10px;
+   color: white;
+}
+
+td:hover {
+  color: #9fb1ed;
+}
+
+table, th, td {
+  border: 1px solid white;
+}
+
+H1 {
+  Text-align: center;
+  font-family: "Bitter", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+a {
+	color: #3480fa;
+}
+
+a:hover {
+	backround-color: transparent;
+	text-decoration: underline;
+}
